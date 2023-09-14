@@ -1,0 +1,936 @@
+Uri: https://fibraexpress.net/
+File Name: D:\CopyWeb\fibraexpress.net\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/cobertura/
+File Name: D:\CopyWeb\fibraexpress.net\cobertura\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/comments/feed/
+File Name: D:\CopyWeb\fibraexpress.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fibraexpress.net/directorio/
+File Name: D:\CopyWeb\fibraexpress.net\directorio\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/feed/
+File Name: D:\CopyWeb\fibraexpress.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fibraexpress.net/formas-de-pago/
+File Name: D:\CopyWeb\fibraexpress.net\formas-de-pago\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/inicio/
+File Name: D:\CopyWeb\fibraexpress.net\inicio\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/mision-y-vision/
+File Name: D:\CopyWeb\fibraexpress.net\mision-y-vision\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/planes/
+File Name: D:\CopyWeb\fibraexpress.net\planes\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/preguntas-frecuentes/
+File Name: D:\CopyWeb\fibraexpress.net\preguntas-frecuentes\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/quienes-somos/
+File Name: D:\CopyWeb\fibraexpress.net\quienes-somos\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/servicios/
+File Name: D:\CopyWeb\fibraexpress.net\servicios\index.htm
+Content Type: text/html
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\css\widget-animated-headline.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.15.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/post-views-counter/css/frontend.min.css?ver=1.3.13
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\post-views-counter\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=7.1.5
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wp-whatsapp-chat\build\frontend\css\style.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=9ae13648aa1aa7954736
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wp-whatsapp-chat\build\frontend\js\index.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.8.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\css\frontend\modern\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.8.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/js/wpforms-modern.min.js?ver=1.8.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\js\wpforms-modern.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.8.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/100M-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\100M-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/100M-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\100M-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/100M.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\100M.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/150M-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\150M-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/150M-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\150M-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/150M.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\150M.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/2-a-1-01-1536x1536.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\2-a-1-01-1536x1536.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/2-a-1-01-2048x2048.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\2-a-1-01-2048x2048.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/2-a-1-01-768x768.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\2-a-1-01-768x768.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/2-a-1-01-80x80.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\2-a-1-01-80x80.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/2-a-1-01.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\2-a-1-01.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/250M-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\250M-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/250M-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\250M-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/250M.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\250M.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/a-768x105.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\a-768x105.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/a.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\a.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/asesoria-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\asesoria-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/asesoria-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\asesoria-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/asesoria.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\asesoria.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/chicaportadaini-1536x830.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\chicaportadaini-1536x830.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/chicaportadaini-2048x1107.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\chicaportadaini-2048x1107.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/chicaportadaini-768x415.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\chicaportadaini-768x415.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/chicaportadaini-scaled.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\chicaportadaini-scaled.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/comprobante-1536x1022.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\comprobante-1536x1022.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/comprobante-768x511.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\comprobante-768x511.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/comprobante.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\comprobante.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cropped-icono_website-180x180.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cropped-icono_website-180x180.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cropped-icono_website-192x192.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cropped-icono_website-192x192.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cropped-icono_website-32x32.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cropped-icono_website-32x32.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cursos-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cursos-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cursos-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cursos-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/cursos.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\cursos.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/GUIA-CONTROL-PARENTAL-_-ARCOTEL.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\GUIA-CONTROL-PARENTAL-_-ARCOTEL.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/informacion-1536x1022.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\informacion-1536x1022.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/informacion-768x511.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\informacion-768x511.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/informacion.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\informacion.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/LEY-ADULTO-MAYOR.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\LEY-ADULTO-MAYOR.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/norma_sva.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\norma_sva.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/optical-fiber-80x80.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\optical-fiber-80x80.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/optical-fiber.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\optical-fiber.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/planesInternet-1536x1199.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\planesInternet-1536x1199.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/planesInternet-768x600.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\planesInternet-768x600.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/planesInternet.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\planesInternet.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-1-768x768.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-1-80x80.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-1.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-2.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-3.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/post-4.jpg
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/REFORMA-AL-REGLAMENTO-GENERAL.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\REFORMA-AL-REGLAMENTO-GENERAL.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/REGLAMENTO-GENERAL-LEY-ORGANICA-DE-LAS-PERSONAS-ADULTAS-MAYORES.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\REGLAMENTO-GENERAL-LEY-ORGANICA-DE-LAS-PERSONAS-ADULTAS-MAYORES.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/reglamento_abonados.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\reglamento_abonados.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/renatomor-768x768.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\renatomor-768x768.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/renatomor-80x80.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\renatomor-80x80.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/renatomor.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\renatomor.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/RESOLUCION-ARCOTEL-SOBRE-ADULTO-MAYOR.pdf
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\RESOLUCION-ARCOTEL-SOBRE-ADULTO-MAYOR.pdf
+Content Type: application/pdf
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/riobamba-1536x1022.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\riobamba-1536x1022.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/riobamba-768x511.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\riobamba-768x511.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/riobamba.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\riobamba.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/simetrica-80x80.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\simetrica-80x80.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/simetrica.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\simetrica.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/tarjeta-pichincha-1536x1022.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\tarjeta-pichincha-1536x1022.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/tarjeta-pichincha-768x511.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\tarjeta-pichincha-768x511.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/tarjeta-pichincha.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\tarjeta-pichincha.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/Vinces-1536x1022.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\Vinces-1536x1022.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/Vinces-768x511.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\Vinces-768x511.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/2023/09/Vinces.webp
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\2023\09\Vinces.webp
+Content Type: image/webp
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/global.css?ver=1694547186
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-100.css?ver=1694613799
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-100.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-144.css?ver=1694625413
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-144.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-146.css?ver=1694725005
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-146.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-148.css?ver=1694562216
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-148.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-20.css?ver=1694547185
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-20.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-27.css?ver=1694547375
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-27.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-35.css?ver=1694547186
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-35.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-398.css?ver=1694547186
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-398.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-44.css?ver=1694547186
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-44.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-53.css?ver=1694578967
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-53.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-672.css?ver=1694547349
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-672.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-722.css?ver=1694547186
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-722.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-90.css?ver=1694547200
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-90.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/css/post-95.css?ver=1694613822
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\css\post-95.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/thumbs/chicafooter-qc6hcibrv7yu0jyledatphaer2lyw87ydqfubd29zo.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\thumbs\chicafooter-qc6hcibrv7yu0jyledatphaer2lyw87ydqfubd29zo.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/thumbs/cropped-logo_website-qc2l38ul6y1tg9gk2e2932fuvtm46uuyjax46ifofo.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\thumbs\cropped-logo_website-qc2l38ul6y1tg9gk2e2932fuvtm46uuyjax46ifofo.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-content/uploads/elementor/thumbs/figurespeedtesttt-qc6kkp5j2ykh9p3ntogxo6cq7n32y0y1mk7igu2ifw.png
+File Name: D:\CopyWeb\fibraexpress.net\wp-content\uploads\elementor\thumbs\figurespeedtesttt-qc6kkp5j2ykh9p3ntogxo6cq7n32y0y1mk7igu2ifw.png
+Content Type: image/png
+
+Uri: https://fibraexpress.net/wp-includes/css/dashicons.min.css?ver=6.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://fibraexpress.net/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fibraexpress.net/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://fibraexpress.net/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-includes/js/wp-util.min.js?ver=6.3.1
+File Name: D:\CopyWeb\fibraexpress.net\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://fibraexpress.net/wp-json/
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fcobertura%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fcobertura%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fdirectorio%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fdirectorio%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fformas-de-pago%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fformas-de-pago%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Finicio%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Finicio%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fmision-y-vision%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fmision-y-vision%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fplanes%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fplanes%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fpreguntas-frecuentes%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fpreguntas-frecuentes%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fquienes-somos%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fquienes-somos%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fservicios%2F
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/oembed/1.0/embed?url=https:%2F%2Ffibraexpress.net%2Fservicios%2F&format=xml
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/100
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\100
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/144
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\144
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/146
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\146
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/148
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\148
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/27
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/44
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\44
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/53
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\53
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/672
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\672
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/90
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\90
+Content Type: application/json
+
+Uri: https://fibraexpress.net/wp-json/wp/v2/pages/95
+File Name: D:\CopyWeb\fibraexpress.net\wp-json\wp\v2\pages\95
+Content Type: application/json
+
+Uri: https://fibraexpress.net/xmlrpc.php?rsd
+File Name: D:\CopyWeb\fibraexpress.net\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Condensed:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.1
+File Name: D:\CopyWeb\fibraexpress.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Roboto+Condensed:700|Poppins:400|Montserrat:400&display=fallback&ver=4.3.1
+File Name: D:\CopyWeb\fibraexpress.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEobdNc.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEobdNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYobdNc.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYobdNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM4.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: D:\CopyWeb\fibraexpress.net\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
